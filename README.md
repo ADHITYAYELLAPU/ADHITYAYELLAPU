@@ -1,68 +1,89 @@
-# Hi there, I'm Adhitya Yellapu! 👋
+# Hi, I'm Adhitya Yellapu 👋
 
 <p align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=22&pause=1000&color=2196F3&center=true&vCenter=true&width=500&lines=Data+Enthusiast+%7C+Analyst;Electrical+Engineering+Student;Passionate+about+Actionable+Insights" alt="Typing SVG" />
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=22&pause=1000&color=2196F3&center=true&vCenter=true&width=500&lines=Data+Analyst;Electrical+Engineering+Student;Photography+Enthusiast" alt="Typing SVG" />
 </p>
 
-Welcome to my GitHub! I am an engineering student at Acharya Nagarjuna University with a strong passion for **Data Analysis**. I love diving into complex datasets, finding patterns, and visualizing data to solve real-world problems. When I'm not crunching numbers or coding, you can find me behind the lens doing photography. 📸
+*I don't just look at data - I find the stories hidden within it.*
 
 ---
 
-### 🚀 About Me
+### [cite_start]👨‍💻 About me [cite: 35]
 
-- 🎓 Currently studying **Core Electrical Engineering** at Acharya Nagarjuna University.
-- 📊 **My Focus:** Building end-to-end data analytics pipelines, customer retention analysis, and market trend forecasting.
-- 🌱 **Currently Learning:** Advanced data visualization and machine learning techniques.
-- 🤝 **Looking to Collaborate on:** Data-driven projects, open-source analytics tools, or anything that challenges me to learn!
+• **Exploring knowledge:** Passionate about finding actionable insights through data analysis.
+[cite_start]• **Education:** Pursuing a degree in Core Electrical Engineering at Acharya Nagarjuna University. [cite: 37]
+
+[cite_start]**What I Believe In:** [cite: 38]
+• Data beats intuition. 
+• Visualizations should tell a clear story.
+[cite_start]• Clean data > fancy algorithms. [cite: 41]
+• Growth comes from continuous learning.
+
+[cite_start]**Achievements:** [cite: 43]
+• Developed and deployed multiple data analytics projects including Swiggy Menu Analysis and EV Market Lifecycle.
+• Extracted actionable business insights for retail sales and customer retention.
+• Evaluated real-world job market data to map highly sought-after tech skills.
+
+[cite_start]**2026 Goals:** Deepen my knowledge in Machine Learning and Advanced Predictive Analytics. [cite: 47]
+
+[cite_start]**Direction:** Actively growing towards a strong Data Analyst / Business Intelligence role. [cite: 48]
+
+[cite_start]**Currently:** [cite: 49]
+• Learning core electrical engineering concepts. 
+• Enhancing skills in Python, SQL, and Data Visualization.
+• Building scalable data pipelines and dashboards.
 
 ---
 
-### 💻 Tech Stack & Tools
+### [cite_start]🌟 Interests: [cite: 59]
+• Data Analysis & Business Intelligence.
+• Core Electrical Systems.
+• Photography.
 
-*(Update these based on the actual tools you use!)*
+### [cite_start]📫 How to reach me: [cite: 64]
+[LinkedIn](https://www.linkedin.com/in/adhitya-yellapu) | [Email](mailto:y21ee3260@gmail.com) | [X/Twitter](https://twitter.com/VikramA05526893)
 
+[cite_start]• **Fun Fact:** I love finding the perfect angle, whether it's framing a shot in photography or pivoting a dataset in Excel! [cite: 65]
+
+[cite_start]• **Hobbies:** [cite: 66]
+  • Exploring photography and visual arts.
+  [cite_start]• Learning about new tech and data trends. [cite: 67]
+
+---
+
+### 🛠️ Tech. [cite_start]Stacks & Tools [cite: 70]
+
+> **Q. [cite_start]Why did the data analyst cross the road?** [cite: 71]
+> **A. [cite_start]To get to the other dataset!** [cite: 72]
+
+[cite_start]**Languages & Core Tools:** [cite: 75]
 <p align="left">
   <img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white" alt="Python" />
   <img src="https://img.shields.io/badge/SQL-4479A1?style=for-the-badge&logo=postgresql&logoColor=white" alt="SQL" />
+  <img src="https://img.shields.io/badge/Excel-217346?style=for-the-badge&logo=microsoftexcel&logoColor=white" alt="Excel" />
+</p>
+
+[cite_start]**Libraries/Frameworks:** [cite: 86]
+<p align="left">
   <img src="https://img.shields.io/badge/Pandas-150458?style=for-the-badge&logo=pandas&logoColor=white" alt="Pandas" />
   <img src="https://img.shields.io/badge/Jupyter-F37626?style=for-the-badge&logo=jupyter&logoColor=white" alt="Jupyter" />
   <img src="https://img.shields.io/badge/PowerBI-F2C811?style=for-the-badge&logo=Power%20BI&logoColor=white" alt="PowerBI" />
-  <img src="https://img.shields.io/badge/Excel-217346?style=for-the-badge&logo=microsoftexcel&logoColor=white" alt="Excel" />
+</p>
+
+[cite_start]**Version Control:** [cite: 110]
+<p align="left">
+  <img src="https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white" alt="Git" />
+  <img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white" alt="GitHub" />
 </p>
 
 ---
 
-### 📂 Featured Projects
-
-Here are some of the analytical projects I've been working on recently:
-
-| Project | Description |
-|---------|-------------|
-| 🍔 **[Swiggy Menu Data Analysis](https://github.com/ADHITYAYELLAPU/Swiggy-menu-data-analysis)** | Explored food delivery metrics to extract insights on menu trends and pricing strategies. |
-| ⚡ **[EV Production Lifecycle](https://github.com/ADHITYAYELLAPU/EV-Production-Lifecycle...)** | Analyzed the production lifecycle and market trends within the rapidly growing Electric Vehicle sector. |
-| 🛍️ **[Retail Sales & Customer Retention](https://github.com/ADHITYAYELLAPU/Retail-Sales-Customer-...)** | Deep dive into retail data to understand customer behavior and strategies for maximizing retention revenue. |
-| 💼 **[Job Market Skill Demand](https://github.com/ADHITYAYELLAPU/job-market-skill-demand-ana...)** | Evaluated current job postings to identify the most highly sought-after skills in today's tech market. |
-| 👥 **[End to End Talent Acquisition](https://github.com/ADHITYAYELLAPU/End-to-End-Talent-Acquisi...)** | HR analytics project focused on optimizing the hiring pipeline and evaluating recruitment data. |
-
----
-
-### 📈 GitHub Stats
+### [cite_start]📊 GitHub Stats [cite: 113]
 
 <p align="center">
   <img src="https://github-readme-stats.vercel.app/api?username=ADHITYAYELLAPU&show_icons=true&theme=radical" alt="Adhitya's GitHub stats" height="150" />
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=ADHITYAYELLAPU&layout=compact&theme=radical" alt="Top Languages" height="150" />
 </p>
-
----
-
-### 📫 Let's Connect!
-
-<p align="left">
-  <a href="https://www.linkedin.com/in/adhitya-yellapu" target="_blank">
-    <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" />
-  </a>
-  <a href="mailto:y21ee3260@gmail.com">
-    <img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Email" />
   </a>
   <a href="https://twitter.com/VikramA05526893" target="_blank">
     <img src="https://img.shields.io/badge/X-000000?style=for-the-badge&logo=x&logoColor=white" alt="X/Twitter" />
