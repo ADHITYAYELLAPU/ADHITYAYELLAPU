@@ -43,6 +43,7 @@ I specialise in **Alteryx Designer** for workflow automation, **Python** for mac
 **Visualization & Reporting**
 
 ![Power BI](https://img.shields.io/badge/PowerBI-F2C811?style=flat-square&logo=powerbi&logoColor=black)
+![Alteryx Interactive Charts](https://img.shields.io/badge/Alteryx Interactive Charts-0078C0?style=flat-square&logo=Alteryx Interactive Charts&logoColor=white)
 
 **Familiar With**
 
