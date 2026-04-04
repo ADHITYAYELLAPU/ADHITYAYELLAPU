@@ -64,6 +64,8 @@ I specialise in **Alteryx Designer** for workflow automation, **Python** for mac
 
 `Alteryx Designer` &nbsp; `Select` &nbsp; `Filter` &nbsp; `Python Tool` &nbsp; `scikit-learn` &nbsp; `Reporting Tools`
 
+---
+
 ### 🌍 [Global Sales Descriptive Analysis](https://github.com/ADHITYAYELLAPU/Global-Sales-Descriptive-Analysis)
 > Alteryx Designer &nbsp;·&nbsp; Multi-Currency Pipeline &nbsp;·&nbsp; Descriptive Analysis
 
