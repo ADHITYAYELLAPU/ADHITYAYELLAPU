@@ -52,6 +52,18 @@ I specialise in **Alteryx Designer** for workflow automation, **Python** for mac
 
 ## 📁 Featured Projects
 
+### 1. [Amazon Stock Price Predictive Analysis](https://github.com/ADHITYAYELLAPU/amazon-stock-predictive-analysis)
+> End-to-end ML pipeline in Alteryx Designer forecasting AMZN daily closing prices
+
+- **Data:** 7,262 daily trading records · 1997–2026 · 29 years
+- **Model:** Linear Regression with lag features (Prev_Close, MA_7, Daily_Range, Daily_Return_Pct)
+- **Train R²:** 0.9994 · **Test R²:** 0.9765 · 
+- **MAPE:** 1.31% on 561 unseen 2024–2026 trading days.
+- **Pipeline:** Input → Select → Formula → Multi-Row Formula × 3 → Filter → Python Tool → Reporting Tools
+- **Key finding:** Yesterday's close price (coef +0.86) dominates prediction — structural feature relationships hold across 3 distinct price regimes ($0.07 → $254)
+
+`Alteryx Designer` &nbsp; `Select` &nbsp; `Filter` &nbsp; `Python Tool` &nbsp; `scikit-learn` &nbsp; `Reporting Tools`
+
 ### 🌍 [Global Sales Descriptive Analysis](https://github.com/ADHITYAYELLAPU/Global-Sales-Descriptive-Analysis)
 > Alteryx Designer &nbsp;·&nbsp; Multi-Currency Pipeline &nbsp;·&nbsp; Descriptive Analysis
 
