@@ -18,7 +18,9 @@
 
 **B.Tech Graduate in Electrical & Electronics Engineering** — Acharya Nagarjuna University, Guntur &nbsp;|&nbsp; CGPA: **7.89**
 
-I build end-to-end data analytics pipelines that convert raw, multi-source business data into clear decisions. My work spans sales intelligence, customer analytics, HR reporting, and market research — all built with a focus on business impact, not just output.
+I am a data analyst who builds **end-to-end analytics pipelines** — from raw messy data to actionable insights and visual reports. My work spans predictive modeling, customer analytics, and business intelligence across retail, food delivery, and financial domains.
+
+I specialise in **Alteryx Designer** for workflow automation, **Python** for machine learning, and **Power BI** for dashboarding. Every project in this profile is self-initiated — built to solve a real business problem, not to tick a course checkbox.
 
 ```text
 🎯  Actively seeking    →  Data Analyst / Business Analyst roles (2026)
